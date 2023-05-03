@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suvidha-Adaikkalam
+- 👋 Hi, I’m @SuvidhaAdaikkalam
 - 🌱 I’m have completed Master degree MCA with 86%
 - 💞️ I’m looking for an opportunity to start my career ...
 - Proficient in C Java programming languages
